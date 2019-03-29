@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/master project 1.toc</path>
+      <name>master project 1</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/master project 1.glo</path>
+      <name>master project 1</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/master project 1/eBook</outputPath>
+  <starterPage>master_project_1.epub</starterPage>
+  <search>
+    <context type="boolean">false</context>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>eBook</name>
+  <type>epub</type>
+  <title>master project 1</title>
+  <defaultTopic></defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+</preset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>master project 1</title>
+  <content>
+    <toc>
+      <name>Robohelp_sanity</name>
+      <path>../../toc/Robohelp_sanity.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>master project 1</name>
+      <path>../../glossary/master project 1.glo</path>
+    </glossary>
+    <brs type="array">
+      <brsitem>
+        <path>../browsesequence/ARobohrlp19.brs</path>
+      </brsitem>
+      <brsitem>
+        <path>../browsesequence/RoboHelp.brs</path>
+      </brsitem>
+    </brs>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+  </content>
+  <type>html5</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/master project 1/Responsive_HTML</outputPath>
+  <name>Responsive HTML5</name>
+  <starterPage>index.htm</starterPage>
+  <defaultTopic>
+    <name>First_Topic</name>
+    <path>../../contents/First_Topic.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">true</context>
+    <contextLimit>100</contextLimit>
+    <glossary type="boolean">true</glossary>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <filter>
+    <name>Responsive HTML5</name>
+    <path>../filters/Responsive HTML5.filter</path>
+  </filter>
+  <sitemap>
+    <use type="boolean">true</use>
+    <helpBaseURL></helpBaseURL>
+    <changeFrequency>Monthly</changeFrequency>
+  </sitemap>
+  <skin>
+    <path>../skins/Azure_Blue/html5.skn</path>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <serversStatus type="array">
+    <serversStatusitem>
+      <name>Profile_1</name>
+    </serversStatusitem>
+  </serversStatus>
+  <republish type="boolean">true</republish>
+</preset>

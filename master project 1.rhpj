@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="2019.0.6">
+<title>master project 1</title>
+<preferences>
+<language>en_UK</language>
+<noInlineStyle>false</noInlineStyle>
+<defaultCss>contents/assets/css/default.css</defaultCss>
+<defaultWsf></defaultWsf>
+<defaultFsf></defaultFsf></preferences>
+<statuslist>
+<status>Draft</status>
+<status>In Progress</status>
+<status>Ready for Review</status>
+<status>Sent for Review</status>
+<status>Reviewed</status>
+<status>Complete</status></statuslist>
+<ctaggroups>
+<group>Audience</group>
+<group>Platform</group>
+<group>Product</group>
+<group>Properties</group>
+<group>Others</group></ctaggroups>
+<colors>
+<color name="Black" value="rgb(0,0,0)"></color>
+<color name="Red" value="rgb(255,0,0)"></color>
+<color name="Lime" value="rgb(0,255,0)"></color>
+<color name="Blue" value="rgb(0,0,255)"></color>
+<color name="Maroon" value="rgb(128,0,0)"></color>
+<color name="Green" value="rgb(0,128,0)"></color>
+<color name="Navy" value="rgb(0,0,128)"></color>
+<color name="Gray" value="rgb(128,128,128)"></color>
+<color name="White" value="rgb(255,255,255)"></color>
+<color name="Fuchsia" value="rgb(255,0,255)"></color>
+<color name="Aqua" value="rgb(0,255,255)"></color>
+<color name="Yellow" value="rgb(255,255,0)"></color>
+<color name="Purple" value="rgb(128,0,128)"></color>
+<color name="Olive" value="rgb(128,128,0)"></color>
+<color name="Teal" value="rgb(0,128,128)"></color>
+<color name="Silver" value="rgb(192,192,192)"></color></colors>
+<links>
+<link src="C:/Users/nitika/Documents/My RoboHelp Projects/Adobe RoboHelp 2017/Samples/main project having space in name_rh2019_2/contents/assets/images/rd_lime_right.gif" dest="contents/assets/images/rd_lime_right.gif"></link>
+<link src="C:/Users/nitika/Documents/My RoboHelp Projects/Adobe RoboHelp 2017/Samples/main project having space in name_rh2019_2/contents/assets/snippets/New Snippet.hts" dest="New Snippet.hts"></link>
+<link src="C:/Users/nitika/Documents/Documents/Responsive_HTML5/New_Topic_Carpets,_Floor_Covering,_Draperies_-_Store_only_-_Large_Open_Area_Stores_(1000_m2_or_more)_-_Activity_531300.htm" dest="contents/New_Topic_Carpets,_Floor_Covering,_Draperies_-_Store_only_-_Large_Open_Area_Stores_(1000_m2_or_more)_-_Activity_531300.htm"></link>
+<link src="C:/Users/nitika/Documents/My RoboHelp Projects/word_sample.docx" dest="contents/RoboHelp_Features/New_Folder/word_sample.docx"></link></links>
+<content root="contents/"></content>
+<toc root="toc"></toc>
+<snippets root="contents/assets/snippets"></snippets>
+<glossary root="glossary"></glossary>
+<index root="index"></index>
+<seealso root="seealso"></seealso>
+<variable root="variable"></variable>
+<condition root="condition"></condition></project>

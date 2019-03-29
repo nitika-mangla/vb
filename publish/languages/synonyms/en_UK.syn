@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Synonyms FormatVersion="2" FeatureVersion="2">
+<ExcludeWordList/>
+<DirectionalSynList>
+<DirectionalSyn AllForms="1"><From>dresses</From><To>benetton</To></DirectionalSyn>
+<DirectionalSyn AllForms="1"><From>caps</From><To>hats</To></DirectionalSyn>
+</DirectionalSynList>
+<GroupSynList/>
+</Synonyms>

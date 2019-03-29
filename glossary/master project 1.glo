@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+
+<glossgroup id="master project 1">          
+<title>Glossary Definitions</title>        
+<glossentry id="brands">
+<glossterm>brands</glossterm>
+<glossdef>Fashion labels:</glossdef></glossentry>
+<glossentry id="footwears">
+<glossterm>footwears</glossterm>
+<glossdef>Sneakers are a type of footwear    A pair of long socks  Footwear refers to garments worn on the feet, which originally serves to purpose of protection against adversities of the environment, usually regarding ground textures and temperature. Footwear in the manner of shoes therefore primarily serves the purpose to ease the locomotion and prevent injuries.</glossdef></glossentry>
+<glossentry id="Träume">
+<glossterm>Träume</glossterm>
+<glossdef>希望</glossdef></glossentry>
+<glossentry id="UCB">
+<glossterm>UCB</glossterm>
+<glossdef>United Colors of benetton</glossdef></glossentry>
+<glossentry id="家">
+<glossterm>家</glossterm>
+<glossdef>La maison où nous vivons.Ist wo wir lieben</glossdef></glossentry></glossgroup>

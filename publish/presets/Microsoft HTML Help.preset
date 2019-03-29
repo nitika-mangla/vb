@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/master project 1.toc</path>
+      <name>master project 1</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/master project 1.glo</path>
+      <name>master project 1</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/master project 1/Microsoft_HTML_Help</outputPath>
+  <starterPage>master_project_1.chm</starterPage>
+  <search>
+    <context type="boolean">false</context>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>Microsoft HTML Help</name>
+  <type>chm</type>
+  <title>master project 1</title>
+  <defaultTopic>
+    <name>Women_Categories/Apparel/Dresses/Women_dresses.htm</name>
+    <path>../../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+</preset>
