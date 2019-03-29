@@ -14,9 +14,11 @@
     <brs type="array">
       <brsitem>
         <path>../browsesequence/ARobohrlp19.brs</path>
+        <name>ARobohrlp19</name>
       </brsitem>
       <brsitem>
         <path>../browsesequence/RoboHelp.brs</path>
+        <name>RoboHelp</name>
       </brsitem>
     </brs>
     <mapFiles type="array">
@@ -32,8 +34,8 @@
   <name>Responsive HTML5</name>
   <starterPage>index.htm</starterPage>
   <defaultTopic>
-    <name>First_Topic</name>
-    <path>../../contents/First_Topic.htm</path>
+    <name>General_information.htm</name>
+    <path>../../contents/General_information.htm</path>
   </defaultTopic>
   <lowercasenames type="number">0</lowercasenames>
   <search>
@@ -54,6 +56,7 @@
   </sitemap>
   <skin>
     <path>../skins/Azure_Blue/html5.skn</path>
+    <name>html5</name>
   </skin>
   <createThumbNails type="boolean">false</createThumbNails>
   <serversStatus type="array">
