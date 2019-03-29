@@ -4,23 +4,28 @@
     
 <title>Variables</title>
   
+<keydef keys="Brand_name">
+<topicmeta>
+<keywords>
+<keyword>mango</keyword></keywords></topicmeta></keydef>
+<keydef keys="Casual">
+<topicmeta>
+<keywords>
+<keyword>Informal</keyword></keywords></topicmeta></keydef>
+<keydef keys="Footwears">
+<topicmeta>
+<keywords>
+<keyword>Men Footwears @#$%12348((0</keyword></keywords></topicmeta></keydef>
+<keydef keys="image var">
+<topicmeta>
+<keywords>
+<keyword>providing valye
+&lt;img height=&quot;15&quot; src=&quot;contents/assets/images/Gray_Book_Open.gif&quot; width=&quot;17&quot; /&gt;</keyword></keywords></topicmeta></keydef>
 <keydef keys="Party_Dresses">
 <topicmeta>
 <keywords>
 <keyword>Outdoor Dresses&lt;br&gt;
 &lt;img src=&quot;contents/assets/images/image1.png&quot; style=&quot;border: none;&quot; alt border=&quot;0&quot;&gt;</keyword></keywords></topicmeta></keydef>
-<keydef keys="Casual">
-<topicmeta>
-<keywords>
-<keyword>Informal</keyword></keywords></topicmeta></keydef>
-<keydef keys="Brand_name">
-<topicmeta>
-<keywords>
-<keyword>mango</keyword></keywords></topicmeta></keydef>
-<keydef keys="Footwears">
-<topicmeta>
-<keywords>
-<keyword>Men Footwears @#$%12348((0</keyword></keywords></topicmeta></keydef>
 <keydef keys="私の変数">
 <topicmeta>
 <keywords>
